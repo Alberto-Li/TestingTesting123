@@ -39,10 +39,5 @@ Yeah
 	Itty bitty interrupts
 Yeah
 	Gotta have them interrupts
-<<<<<<< HEAD
-Yeah
-=======
-Yeah
 
-Making a second branch
->>>>>>> origin/master
+
